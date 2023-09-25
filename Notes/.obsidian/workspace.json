@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f4adeb4d50f00c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9d9e1a8ed5593a58",
             "type": "leaf",
             "state": {
@@ -26,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3244de07d0f9306c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3244de07d0f9306c",
+  "active": "9d9e1a8ed5593a58",
   "lastOpenFiles": [
     "Markdown (Re)Introduction.md"
   ]
